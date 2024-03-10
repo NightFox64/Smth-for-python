@@ -1,3 +1,4 @@
+```
 class Point:
 
     def __init__(self, x, y):
@@ -7,3 +8,4 @@ class Point:
 
 point = Point(2, -7)
 print(point.x, point.y)
+```
